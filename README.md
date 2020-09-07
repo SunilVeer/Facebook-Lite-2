@@ -2,9 +2,8 @@
 Building a web application with a database (MongoDB) backend
 
 ## Overview
-Simple web applications can be designed using a two-tier architecture, in which a client communicates directly with a server. In this assignment, a PHP web application communicates directly with a MongoDB database using the PHP Mongodb API (https://www.php.net/manual/en/set.mongodb.php)
-The application you build in this assignment involves the creation of a number of PHP pages. In each of these pages you use HTML and CSS to implement a simple interface, and use PHP (with MongoDB API)  to perform the logic that directly queries the database and inserts the retrieved data back into web pages.
-The main emphasis in this assignment is the database backend. While it is essential to have good PHP and web programming skills, they do not primarily contribute to your assessment outcomes. 
+Simple web applications can be designed using a two-tier architecture, in which a client communicates directly with a server. A PHP web application communicates directly with a MongoDB database using the PHP Mongodb API (https://www.php.net/manual/en/set.mongodb.php)
+The application involves the creation of a number of PHP pages. In each of these pages you use HTML and CSS to implement a simple interface, and use PHP (with MongoDB API)  to perform the logic that directly queries the database and inserts the retrieved data back into web pages.
 
 ## Assessment Details
 Let’s assume that a decision has been made to develop a light version (called Facebook-Lite) of the ever-popular Facebook application. This light version has limited functionalities compared to the full version. Only core functionalities are to be retained. You are tasked with the design of the database backend and web frontend.
