@@ -41,3 +41,13 @@ This page will have several sections. (1) at the middle section, it shows up pos
 ### Account Profile Maintenance page: 
 This page should allow you to change your screen name, status, location, and visibility level.
 You are required to complete this milestone by the due date and submit your codebase, by following the submission instructions.
+
+# Run Locally
+
+##Requirements: PHP and MongoDB installed locally.
+
+• Pull the folder in htdocs of your php installed folder. Make sure you place folder "public_html" in htdocs folder.
+
+• Go to connection.php file and check whether your connection with MongoDB database is working fine. 
+
+• Go to your browser and run url "http://localhost/public_html/index.php".
