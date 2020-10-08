@@ -44,7 +44,7 @@ You are required to complete this milestone by the due date and submit your code
 
 # Run Locally
 
-##Requirements: PHP and MongoDB installed locally.
+## Requirements: PHP and MongoDB installed locally.
 
 • Pull the folder in htdocs of your php installed folder. Make sure you place folder "public_html" in htdocs folder.
 
